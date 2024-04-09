@@ -666,7 +666,8 @@ height: 40px;
     border: none;
 }
 
-.modal-cloce-button:hover .icon-close {
+.modal-cloce-button:hover .icon-close,
+.modal-cloce-button:focus .icon-close {
     fill: #FFFFFF;
 }
 
