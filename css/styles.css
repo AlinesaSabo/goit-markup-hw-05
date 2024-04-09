@@ -735,16 +735,6 @@ height: 40px;
     margin-bottom: 16px;
 }
 
-.modal-comment-label {
-    font-size: 12px;
-    line-height: 1.17;
-    letter-spacing: 0.04em;
-    color: #8e8f99;
-    margin-bottom: 4px;
-    position: relative;
-    display: block;
-}
-
 .modal-textarea {
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 4px;
